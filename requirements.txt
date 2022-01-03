@@ -18,7 +18,7 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 numexpr==2.7.1
-numpy==1.18.2
+numpy==1.22.0
 orca==1.5.3
 pandas==1.0.3
 plotly==4.6.0
